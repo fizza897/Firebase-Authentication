@@ -1,0 +1,15 @@
+.task_2{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: larger;
+    color: gray;
+    background-color: cyan;
+
+}
+button{
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    font-size: larger;
+}
